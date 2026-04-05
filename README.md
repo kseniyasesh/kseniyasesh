@@ -9,7 +9,7 @@
 - **Infrastructure:** Docker, Docker Compose, Linux (WSL2), Git
 - **Legacy & Base:** PHP (Commercial Experience), HTML/CSS, JS
 
-### 🚀 Последний проект: [Personal Finance Tracker API](https://github.com)
+### 🚀 Последний проект: [Personal Finance Tracker API](https://github.com/kseniyasesh/Personal-Finance-Api)
 *Полноценный асинхронный микросервис для управления финансами.*
 - **Performance:** Асинхронный пайплайн взаимодействия с БД исключает блокировки.
 - **Precision:** Целочисленная арифметика (хранение в копейках) для 100% точности финансовых расчетов.
