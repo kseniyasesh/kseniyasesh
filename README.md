@@ -1,7 +1,7 @@
-# Hi, I'm Kseniya 👋
+# Hi, I'm Kseniya
 **Backend Developer | Applied Mathematics & Informatics (BS)**
 
-> "Математика — это язык, на котором написана Вселенная. Python — это язык, на котором я заставляю её работать на благо бизнеса." 🦾✨
+> "Математика — это язык, на котором написана Вселенная. Python — это язык, на котором я заставляю её работать на благо бизнеса." ✨
 
 ### 🛠 Мой технологический стек
 - **Backend:** Python 3.12 (Async), FastAPI, SQLAlchemy 2.0, Pydantic V2
@@ -22,7 +22,4 @@
 
 **IT Support Engineer @ Telecontact** (3 месяца)
 - **Incident Management:** Анализ технических инцидентов и работа с Dev-командами через тикет-системы.
-- **Performance:** Стабильное выполнение KPI по скорости (SLA) и точности обработки запросов.
-
-### 📫 Связь со мной:
-[HH.ru Profile](https://hh.ru/resume/0be53fc9ff0da076600039ed1f774975535469) | [Telegram](https://t.me/kseniyasesh)
+- **Performance:** Стабильное выполнение KPI по скорости и точности обработки запросов.
