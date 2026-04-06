@@ -5,7 +5,7 @@
 
 ### 🛠 Мой технологический стек
 - **Backend:** Python 3.12 (Async), FastAPI, SQLAlchemy 2.0, Pydantic V2
-- **Databases:** PostgreSQL, SQLite (проектирование реляционных схем)
+- **Databases:** PostgreSQL, SQL (проектирование БД)
 - **Infrastructure:** Docker, Docker Compose, Linux (WSL2), Git
 - **Legacy & Base:** PHP (Commercial Experience), HTML/CSS, JS
 
