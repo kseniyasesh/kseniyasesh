@@ -1,25 +1,44 @@
 # Hi, I'm Kseniya
-**Backend Developer | Applied Mathematics & Informatics (BS)**
+### Backend Engineer | Applied Mathematics & Computer Science
 
-> «Математика — это язык, на котором написана Вселенная. Программирование — это способ стать её соавтором.» ✨
+I am a software engineer with a strong foundation in **Applied Mathematics** and a passion for building high-performance backend systems. I specialize in **Python (FastAPI)** and have a proven track record of optimizing complex enterprise data pipelines.
 
-### 🛠 Мой технологический стек
-- **Backend:** Python 3.12 (Async), FastAPI, SQLAlchemy 2.0, Pydantic V2
-- **Databases:** PostgreSQL, SQL (проектирование БД)
-- **Infrastructure:** Docker, Docker Compose, Linux (WSL2), Git
-- **Legacy & Base:** PHP (Commercial Experience), HTML/CSS, JS
+> *"Mathematics is the language of the universe. Programming is the way to become its co-author."* ✨
 
-### 🚀 Последний проект: [Personal Finance Tracker API](https://github.com/kseniyasesh/Personal-Finance-Api)
-*Полноценный асинхронный микросервис для управления финансами.*
-- **Performance:** Асинхронный пайплайн взаимодействия с БД исключает блокировки.
-- **Precision:** Целочисленная арифметика (хранение в копейках) для 100% точности финансовых расчетов.
-- **Infrastructure:** Полная контейнеризация (App + PostgreSQL) через Docker Compose с настройкой Healthchecks.
+---
 
-### 💼 Опыт и достижения
-**Backend Developer @ OMI** (1 год)
-- **Автоматизация:** Сократила время пакетной обработки данных в 20 раз (с 1 часа до 3 минут).
-- **Рефакторинг:** Выполнила модульную декомпозицию кода (~30 шаблонов), повысив стабильность системы и скорость внедрения новых задач на 25%.
+### 🛠 Technical Stack
+*   **Backend:** Python 3.12 (Async), FastAPI, SQLAlchemy 2.0, Pydantic V2, Alembic.
+*   **Databases:** PostgreSQL (DB Design, ACID), SQL.
+*   **Infrastructure:** Docker & Docker Compose, Nginx, Linux (WSL2/Ubuntu), Git.
+*   **Legacy & Base:** PHP (Commercial Experience), C/C++ (Academic Background).
 
-**IT Support Engineer @ Telecontact** (3 месяца)
-- **Incident Management:** Анализ технических инцидентов и работа с Dev-командами через тикет-системы.
-- **Performance:** Стабильное выполнение KPI по скорости и точности обработки запросов.
+---
+
+### 🚀 Key Project: [Personal Finance API](https://github.com/kseniyasesh/Personal-Finance-Api)
+*A high-performance asynchronous microservice for financial management.*
+*   **Performance:** Fully asynchronous pipeline for database interactions, preventing blocking operations.
+*   **Precision:** Integer-based arithmetic (storing values in cents) to ensure 100% financial calculation accuracy.
+*   **Reliability:** Implemented database-level locking and transaction management to prevent Race Conditions.
+*   **Infrastructure:** Full containerization with Docker Compose, including fine-tuned Healthchecks.
+
+---
+
+### 💼 Commercial Experience
+**Backend Developer @ OMI** (July 2024 — July 2025)
+*   **Automation:** Optimized batch data processing pipelines by **20x** (from 60 minutes to 3 minutes) using PowerShell and Python scripts.
+*   **Refactoring:** Conducted modular decomposition of a legacy codebase (~30 templates), improving system stability and accelerating new feature delivery by 25%.
+*   **Architecture:** Designed complex tree-based branching algorithms and dynamic traffic quota systems for enterprise-level data collection platforms.
+
+---
+
+### 🎓 Education
+*   **Bachelor of Applied Mathematics and Computer Science**
+    *Belgorod State National Research University (2019 — 2023)*
+
+---
+
+### 📫 Connect with me:
+*   **Telegram:** [@kseniyasesh](https://t.me/kseniyasesh)
+*   **LinkedIn:** [Kseniya Martirosova](https://www.linkedin.com/in/kseniya-martirosova-7650943a2/)
+*   **Habr Career:** [Profile](https://career.habr.com/kseniyasesh)
