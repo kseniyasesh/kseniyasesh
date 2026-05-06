@@ -26,7 +26,7 @@ I am a software engineer with a strong foundation in **Applied Mathematics** and
 
 ### 💼 Commercial Experience
 **Backend Developer @ OMI** (July 2024 — July 2025)
-*   **Automation:** Optimized batch data processing pipelines by **20x** (from 60 minutes to 3 minutes) using PowerShell and Python scripts.
+*   **Automation:** Optimized batch data processing pipelines by **20x** (from 60 minutes to 3 minutes) using [PowerShell scripts] (https://github.com/kseniyasesh/media-automation-tool).
 *   **Refactoring:** Conducted modular decomposition of a legacy codebase (~30 templates), improving system stability and accelerating new feature delivery by 25%.
 *   **Architecture:** Designed complex tree-based branching algorithms and dynamic traffic quota systems for enterprise-level data collection platforms.
 
